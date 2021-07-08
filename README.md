@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue**
 
-- 📝 I regularly write articles on [https://chen7.xyz](chen7.xyz)
+- 📝 I regularly write articles on [chen7.xyz](https://chen7.xyz)
 
 - 📫 How to reach me **15157418180@163.com**
 
